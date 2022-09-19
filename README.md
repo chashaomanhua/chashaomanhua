@@ -11,7 +11,7 @@
 
 - 书源：`25`个书源
 - 复制下面链接，在阅读里`网络导入`
-- https://github.com/manxiangyuan/manxiangyuan/blob/main/All.json
+- https://github.com/chashaomanhua/chashaomanhua/blob/main/All.json
 
 
 ## 导入方案
