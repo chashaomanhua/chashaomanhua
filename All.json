@@ -1,32 +1,5 @@
-[{
-      "bookSourceComment": "",
-      "bookSourceGroup": "漫画",
-      "bookSourceName": "非麻瓜",
-      "bookSourceType": 2,
-      "bookSourceUrl": "https://www.fmgmh.com",
-      "customOrder": -118186,
-      "enabled": true,
-      "enabledExplore": true,
-      "exploreUrl": "人气::/custom/top\n月票::/custom/ticket\n收藏::/custom/fav\n日榜::/custom/day\n周榜::/custom/week\n月榜::/custom/month\n热血::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=6&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n科幻::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=8&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n玄幻::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=10&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n校园::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=11&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n搞笑::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=13&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n穿越::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=14&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n耽美::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=16&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n恋爱::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=17&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n悬疑::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=18&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n恐怖::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=19&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n动作::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=21&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n架空::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=25&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n灵异::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=26&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n古风::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=28&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n生活::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=29&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}",
-      "header": "{\"user-agent\": \"Mozilla/5.0 (Linux; Android 9; wv lite baiduboxapp) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.121 Mobile Safari/537.36 SearchCraft/2.8.2 (Baidu; P1 9) Android/9.0 baiduboxapp/3.2.5.10\"}",
-      "lastUpdateTime": 1621907479945,
-      "loginUrl": "https://www.fmgmh.com",
-      "ruleBookInfo": {
-        "lastChapter": "class.comic-update-info@text"
-      },
-      "ruleContent": {
-        "content": "img@data-original@js:\nlist=result.split(\"\\n\");\nheader={\"Referer\":baseUrl};\nheaders={\"headers\":JSON.stringify(header)}\nhtml='';\nfor(i in list){\nhtml+='<img src=\"'+list[i]+','+JSON.stringify(headers)+'\">'\n}\nhtml",
-        "imageStyle": "FULL"
-      },
-      "ruleExplore": {
-        "author": "class.comic-author@text&&author",
-        "bookList": "class.rank-list@class.rank-item clearfix&&data",
-        "bookUrl": "tag.a@href&&url",
-        "coverUrl": "img@data-src&&pic@js:header={\"Referer\":baseUrl}\nheaders={\"headers\":JSON.stringify(header)}\nresult=result+','+JSON.stringify(headers)",
-        "intro": "class.comic-tip@text&&content",
-        "kind": "serialize",
-        "name": "class.comic-name@text&&name"
-      },{
+[
+  {
     "bookSourceComment": "error:connect timed out\n",
     "bookSourceGroup": "漫画",
     "bookSourceName": "咪咕动漫",
@@ -197,7 +170,35 @@
     "searchUrl": "/search?word={{key}}",
     "weight": [7,8,9]
   },
-  
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "漫画",
+    "bookSourceName": "非麻瓜",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.fmgmh.com",
+    "customOrder": -118186,
+    "enabled": true,
+    "enabledExplore": true,
+    "exploreUrl": "人气::/custom/top\n月票::/custom/ticket\n收藏::/custom/fav\n日榜::/custom/day\n周榜::/custom/week\n月榜::/custom/month\n热血::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=6&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n科幻::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=8&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n玄幻::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=10&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n校园::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=11&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n搞笑::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=13&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n穿越::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=14&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n耽美::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=16&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n恋爱::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=17&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n悬疑::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=18&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n恐怖::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=19&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n动作::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=21&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n架空::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=25&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n灵异::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=26&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n古风::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=28&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}\n生活::https://www.fmgmh.com/index.php/api/data/comic,{\"method\": \"POST\", \"body\": \"type%5Btags%5D=29&type%5Border%5D=hits&type%5Blist%5D=0&type%5Bpay%5D=0&type%5Bfinish%5D=0&size=12&page={{page}}\"}",
+    "header": "{\"user-agent\": \"Mozilla/5.0 (Linux; Android 9; wv lite baiduboxapp) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/73.0.3683.121 Mobile Safari/537.36 SearchCraft/2.8.2 (Baidu; P1 9) Android/9.0 baiduboxapp/3.2.5.10\"}",
+    "lastUpdateTime": 1621907479945,
+    "loginUrl": "https://www.fmgmh.com",
+    "ruleBookInfo": {
+      "lastChapter": "class.comic-update-info@text"
+    },
+    "ruleContent": {
+      "content": "img@data-original@js:\nlist=result.split(\"\\n\");\nheader={\"Referer\":baseUrl};\nheaders={\"headers\":JSON.stringify(header)}\nhtml='';\nfor(i in list){\nhtml+='<img src=\"'+list[i]+','+JSON.stringify(headers)+'\">'\n}\nhtml",
+      "imageStyle": "FULL"
+    },
+    "ruleExplore": {
+      "author": "class.comic-author@text&&author",
+      "bookList": "class.rank-list@class.rank-item clearfix&&data",
+      "bookUrl": "tag.a@href&&url",
+      "coverUrl": "img@data-src&&pic@js:header={\"Referer\":baseUrl}\nheaders={\"headers\":JSON.stringify(header)}\nresult=result+','+JSON.stringify(headers)",
+      "intro": "class.comic-tip@text&&content",
+      "kind": "serialize",
+      "name": "class.comic-name@text&&name"
+    },
     "ruleSearch": {
       "author": "author",
       "bookList": "data",
